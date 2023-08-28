@@ -31,17 +31,3 @@ In this analysis, we will use data provided by a multinational bank on a Kaggle 
 - **Points Earned**: The points earned by the customer for using the credit card.
 
 
-## Usage
-
-1. **Data Preparation:** Ensure you have the necessary dataset (provide download link if available). Clean and preprocess the data using `data_preparation.ipynb`.
-
-2. **Model Building:** Explore different SVM configurations and build the prediction model using `customer_churn_prediction.ipynb`.
-
-3. **Evaluation:** Evaluate the model's performance using appropriate metrics and visualize the results.
-
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
